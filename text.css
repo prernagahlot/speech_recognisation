@@ -1,0 +1,81 @@
+textarea.form-control {
+    width: 50%;
+    height: 267px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: 1.5rem;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Pacifico', cursive;
+    font-family: 'Satisfy', cursive;
+}
+
+
+.dropdown
+{
+  width: 100px;
+}
+
+button.btn.btn-secondary.dropdown-toggle.show {
+  width: 307px;
+}
+h1
+{
+    margin-top: 40px!important;
+}
+
+h1.text-center.text-white {
+  padding-top: 51px;
+  font-family: 'Bungee Spice', sans-serif;
+}
+ button.btn
+ {
+    background-color: rgb(2, 2, 2);
+    color: rgb(226, 226, 226);
+    font-size: 1.6rem;
+ }
+
+ button.btn.btn-secondary.dropdown-toggle {
+  width: 314px;
+}
+
+ .col-md-2 {
+    margin-right: 90px;
+}
+select {
+    background-color: #000000!important; /* Set your desired background color */
+    
+    border: 1px solid #ccc !important; /* Add a border for better visibility */
+    border-radius: 5px !important; /* Optional: Add rounded corners */
+  }
+
+  .button2
+  {
+    border-color: black!important;
+  }
+  
+.btn 
+{
+    font-size: 1.5rem;
+}
+  body
+{
+    background-image: linear-gradient( 109.6deg, #316697 11.2%, rgba(2,0,4,1) 91.1% )!important;
+  background-repeat: no-repeat;
+  height: 600px;
+ 
+  
+}
+
+.btn:hover
+{
+    display: block;
+    background-color: #000000!important;
+}
+    option {
+        background-color: #000000 !important;
+        color: #978f8f !important;
+    }
+
